@@ -3,6 +3,7 @@ name: Build and test website
 on:
   pull_request:
     branches: [ main ]
+  push:
 
 jobs:
   build:
