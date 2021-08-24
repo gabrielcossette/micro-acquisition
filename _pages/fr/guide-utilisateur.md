@@ -10,7 +10,7 @@ permalink: /fr/guide-utilisateur.html
 Le présent guide fournit de l’information aux personnes intéressées à présenter une offre de service pour une opportunité de micro-acquisition de code source.
 Sur cette page, il est possible d'obtenir des renseignements sur l’admissibilité, la façon de présenter une demande, la réception du paiement et les coordonnées.
 
-## Êtes-vous admissible?
+## Êtes-vous admissible ?
 
 Vous êtes admissible à des opportunités de micro-acquisition sur ce site si :
 
